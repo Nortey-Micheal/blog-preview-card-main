@@ -44,6 +44,11 @@ img {
     border-radius: 15px;
 }
 
+h1 {
+    font-size: 1.7rem;
+    font-weight: 800;
+}
+
 .footer {
 
     background-color: lightblue;
