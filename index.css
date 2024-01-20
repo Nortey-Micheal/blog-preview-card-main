@@ -30,7 +30,7 @@ body {
     flex-direction: column;
     align-self: center;
     justify-content: space-between;
-    width: 330px;
+    width: 380px;
     border: solid 1px black;
     padding: 15px;
     background-color: hsl(0, 0%, 100%);
